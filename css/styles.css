@@ -1,0 +1,48 @@
+p, h1, h2, h3, h4 {
+    font-family: "Source Code Pro", monospace;
+}
+
+p {
+    font-size: 14pt;
+    font-weight: light;
+    line-height: 27px;
+}
+
+body {
+    background-color: #0f0f23;
+}
+
+#wrapper {
+    width: 80%;
+    margin: 0 auto;
+    color: white;
+}
+
+#top-bar {
+padding-top: 10%;
+}
+
+
+#find-me {
+    padding: 0;
+    margin: 0px;
+}
+
+#find-me ul {
+    display: inline-block;
+    list-style-type: none;
+}
+
+#find-me li {
+    padding: 6px 20px 6px 0px;
+    display: inline-block;
+}
+
+#find-me li a{
+    text-decoration: none;
+    color: #009900;
+}
+
+#find-me li a:hover{
+    color: #11dd11;
+}
