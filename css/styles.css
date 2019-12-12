@@ -46,3 +46,35 @@ padding-top: 10%;
 #find-me li a:hover{
     color: #11dd11;
 }
+
+#download-resume {
+    border-radius: 8pt;
+    width: 120px;
+    height: 100px;
+    padding: 0px;
+    margin: 0 auto;
+}
+
+#download-resume a{
+    margin: 0px;
+    padding: 0px;
+    height 100px;
+    width: 120px;
+    text-decoration: none;
+    color: white;
+}
+
+#download-resume img {
+padding-top: 10px;
+}
+
+#download-resume:hover {
+    background-color: #1f1f34;
+}
+
+#download-resume p {
+    line-height: 20px;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+}
